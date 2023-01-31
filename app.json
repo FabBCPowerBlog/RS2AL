@@ -1,0 +1,33 @@
+{
+  "id": "ab5da9bc-113d-48cf-aea5-69d43ac280bb",
+  "name": "RS2AL",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "suppressWarnings": ["AS0015","AS0051","AS0052","AS0054","AS0084","AS0092","AS0103","AA0217","AA0218"]
+}

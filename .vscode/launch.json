@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type":  "al",
+            "request":  "launch",
+            "name":  "CAGPG210-Dev",
+            "server":  "http://CAGPG210-Dev",
+            "serverInstance":  "BC",
+            "port":  7049,
+            "tenant":  "",
+            "authentication":  "UserPassword",
+            "breakOnError":  true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}
